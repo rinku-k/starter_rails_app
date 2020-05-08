@@ -1,24 +1,10 @@
-# README
+# Starter ROR guide
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I am creating project from scratch covering all basic coding of ROR (Ruby on Rails).
 
-Things you may want to cover:
+# Topics
+1. [Initial Setup](./readme/installation.md) - Installing Ruby, Rails and Heroku
+2. [Basic Scaffolding](./readme/rails_scaffold.md) - Create rails project and run a simple app.
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Work in progress....
